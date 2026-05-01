@@ -1,0 +1,1 @@
+# wa-translate-bot
